@@ -12,7 +12,7 @@ Then create a composer.json file which lists PHP-CAS as a dependency
 ```
 {
     "require": {
-        "cobookman/php-cas": "~1.0"
+        "cobookman/php-cas": "dev-master"
     }
 }
 ```
