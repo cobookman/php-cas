@@ -44,3 +44,5 @@ $cas->auth();
 ```
 
 By running $cas->auth() the user is validated against CAS. If the user was not logged in, he is sent to the cas login page, and upon successful login is redirected back to this page (service URL).  Then the username is stored in the basic HTTP authentication variables : ```$_SERVER["REMOTE_USER"]```.
+
+If you have any questions feel free to email me at cobookman [at] gmail [dot] com
