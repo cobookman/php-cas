@@ -32,7 +32,7 @@ $cas = new cobookman\PHPCAS(array(
   'serviceURL' => 'http://critique.gatech.edu', 
   'casURL' => 'https://login.gatech.edu/cas'    
 ));
-$cas->auth();
+$username = $cas->auth();
 //At this point user has been logged in or user redirected to login page (script is killed).
 //username stored in:       $_SERVER["REMOTE_USER"]
 //a fake password stored in the password field:
