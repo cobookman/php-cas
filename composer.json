@@ -1,9 +1,9 @@
 {
-  "name" : "cobookman/PHP-CAS",
+  "name" : "cobookman/php-cas",
   "type" : "library",
   "description" : "A PHP library to authenticate users using CAS",
   "keywords" : ["CAS"],
-  "homepage" : "http://github.com/cobookman/PHP-CAS",
+  "homepage" : "http://github.com/cobookman/php-cas",
   "liscense" : "GPLv3",
   "version" : "1.0.0",
   "authors" : [

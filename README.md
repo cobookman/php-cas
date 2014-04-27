@@ -1,4 +1,4 @@
-PHP-CAS
+php-cas
 =======
 
 Uses the CAS login system to login users.  Will return the username, and set the superglobal variables for basic HTTP Authentication.
@@ -12,12 +12,12 @@ Then create a composer.json file which lists PHP-CAS as a dependency
 ```
 {
     "require": {
-        "cobookman/PHP-CAS": "~1.0"
+        "cobookman/php-cas": "~1.0"
     }
 }
 ```
 
-Next, install PHP-CAS, and all other dependencies (or required packages) by running:
+Next, install php-cas, and all other dependencies (or required packages) by running:
 ```
 php composer.phar install
 ```
