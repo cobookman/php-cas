@@ -5,7 +5,7 @@
   "keywords" : ["CAS"],
   "homepage" : "http://github.com/cobookman/PHP-CAS",
   "liscense" : "GPLv3",
-  "version" : 1.0.0,
+  "version" : "1.0.0",
   "authors" : [
     {
       "name" : "Colin Bookman",
